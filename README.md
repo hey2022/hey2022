@@ -1,7 +1,11 @@
 <details>
 <summary>Github stats</summary>
 
-![Stats](./profile/stats.svg)
-![Top Languages](./profile/top-langs.svg)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="./profile/stats.svg" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=300 align="center" src="./profile/top-langs.svg" />
+</a>
 
 </details>
