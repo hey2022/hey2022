@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yiheng He's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1730, Total PRs: 274, Total PRs Merged: 260, Merged PRs Percentage: 94.89, Total PRs Reviewed: 17, Total Issues: 49, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1731, Total PRs: 275, Total PRs Merged: 261, Merged PRs Percentage: 94.91, Total PRs Reviewed: 17, Total Issues: 50, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.36807128229732;
+        stroke-dashoffset: 59.200528542332414;
       }
     }
   
@@ -195,7 +195,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >274</text>
+      >275</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -210,7 +210,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >260</text>
+      >261</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -225,7 +225,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >94.89 %</text>
+      >94.91 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -255,7 +255,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >49</text>
+      >50</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
