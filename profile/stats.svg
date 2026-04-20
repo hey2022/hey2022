@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yiheng He's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1732, Total PRs: 276, Total PRs Merged: 262, Merged PRs Percentage: 94.93, Total PRs Reviewed: 17, Total Issues: 50, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 39, Total Commits  (last year) : 1687, Total PRs: 276, Total PRs Merged: 262, Merged PRs Percentage: 94.93, Total PRs Reviewed: 17, Total Issues: 50, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 59.18045893507068;
+        stroke-dashoffset: 59.22617039763315;
       }
     }
   
@@ -146,7 +146,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          23.5%
+          23.6%
         </text>
       
         </g>
