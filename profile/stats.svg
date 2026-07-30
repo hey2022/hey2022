@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yiheng He's GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 983, Total PRs: 320, Total PRs Merged: 305, Merged PRs Percentage: 95.31, Total PRs Reviewed: 8, Total Issues: 51, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 11</desc>
+        <desc id="descId">Total Stars Earned: 41, Total Commits  (last year) : 998, Total PRs: 322, Total PRs Merged: 307, Merged PRs Percentage: 95.34, Total PRs Reviewed: 8, Total Issues: 52, Total Discussions Started: 1, Total Discussions Answered: 0, Contributed to (last year): 12</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 61.291082150954;
+        stroke-dashoffset: 61.01968029024594;
       }
     }
   
@@ -146,7 +146,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          24.4%
+          24.3%
         </text>
       
         </g>
@@ -180,7 +180,7 @@
         x="219.01"
         y="12.5"
         data-testid="commits"
-      >983</text>
+      >998</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -195,7 +195,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >320</text>
+      >322</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -210,7 +210,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >305</text>
+      >307</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -225,7 +225,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >95.31 %</text>
+      >95.34 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -255,7 +255,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >51</text>
+      >52</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -300,7 +300,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >11</text>
+      >12</text>
     </g>
   </g>
     </svg>
