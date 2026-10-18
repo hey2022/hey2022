@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Yiheng He&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 44, Total Commits  (last year) : 1013, Total PRs: 368, Total PRs Reviewed: 15, Total Issues: 55, Contributed to (last year): 14</desc>
+        <desc id="descId">Total Stars Earned: 44, Total Commits  (last year) : 1013, Total PRs: 368, Total PRs Reviewed: 17, Total Issues: 55, Contributed to (last year): 14</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 57.12992875647371;
+        stroke-dashoffset: 57.07207871821649;
       }
     }
   
@@ -217,7 +217,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >15</text>
+      >17</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
